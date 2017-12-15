@@ -23,3 +23,8 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
